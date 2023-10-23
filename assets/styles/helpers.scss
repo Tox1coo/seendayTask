@@ -2,6 +2,10 @@
 *[data-show="show"] {
   display: block !important;
 }
+*[data-color="light-purple"] {
+  background-color: #E1D1F5;
+  color: #9875D1;
+}
 *[data-show="flex"] {
   display: flex !important;
 }
